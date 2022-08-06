@@ -1,0 +1,46 @@
+{
+  "short_name": "Valentin Music",
+  "name": "Valentin Music PWA",
+  "icons": [
+    {
+      "src": "64x64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": " 32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": " 24x24.png",
+      "sizes": "24x24",
+      "type": "image/png"
+    },
+    {
+      "src": " 16x16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "maskable_icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    },
+    {
+      "src": "512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
